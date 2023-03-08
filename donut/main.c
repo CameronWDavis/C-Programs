@@ -6,7 +6,7 @@ int main() {
     float A = 0, B = 0;
     float i, j;
     int k;
-    float z[1760];
+    float z[1760];//variables to start manipulation 
     char b[1760];
     printf("\x1b[2J");
     for(;;) {
