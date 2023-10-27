@@ -16,3 +16,6 @@ This was another project I did at univeristy to show off mathematics
 
 # triangle
 This is a program made to show off mathematics with a triangle in C 
+
+# commandline
+This is used to show off a command line tool in C the main purpose of this is to translate windows commands to unix
