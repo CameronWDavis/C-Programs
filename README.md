@@ -19,3 +19,6 @@ This is a program made to show off mathematics with a triangle in C
 
 # commandline
 This is used to show off a command line tool in C the main purpose of this is to translate windows commands to unix
+
+# hangman
+This was a simple project made with C++ for fun that is just the classic and enjoyable hangman game
